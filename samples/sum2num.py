@@ -1,5 +1,5 @@
 # program to sum two inputs
-a = int(input('first number= '))
-b = int(input('second number= '))
+a = int(input('first integer= '))
+b = int(input('second integer= '))
 print('Sum = ')
 print(a + b)
